@@ -194,4 +194,4 @@ const canvas=document.getElementById('game');
           }
       }
       
-       drawGame(); 
+       drawGame();
